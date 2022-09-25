@@ -16,7 +16,7 @@ Delete it from your mods folder.
 ### Tasklist
 - [x] Complete the base of the mod
 - [ ] Make buff customizable via config with GMCM
-- [ ] Add an even bigger speed boost when you collect enough rings in the overworld, complete with SFX (thanks atra for the idea!)
+- [ ] Add an even bigger speed boost when you collect enough rings in the overworld, complete with SFX (thanks Casey for the idea!)
 
 ### Credits
 - <b>Pathoschild</b> for helping me with the code!
