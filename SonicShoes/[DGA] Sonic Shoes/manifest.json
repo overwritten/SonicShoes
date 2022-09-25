@@ -1,0 +1,14 @@
+{
+  "Name": "Sonic Shoes for DGA",
+  "Author": "lilico",
+  "Version": "1.0.0",
+  "Description": "The shoes!!!!!!",
+  "UniqueID": "lilico.SonicShoesDGA",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["Nexus:10226"],
+  "ContentPackFor":
+		{ 	"UniqueID": "spacechase0.DynamicGameAssets",
+			"MinimumVersion": "1.0.0" },
+"DGA.FormatVersion": 2,
+"DGA.ConditionsFormatVersion": "1.23.0"
+}

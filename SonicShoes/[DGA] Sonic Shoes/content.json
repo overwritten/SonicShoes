@@ -1,0 +1,22 @@
+[
+	{ 
+		"$ItemType": "Boots",
+		"ID": "SonicShoes",
+		"Texture": "SonicShoes.png:0",
+		"FarmerColors": "boots_color.png:0",
+		"Defense": 0,
+		"Immunity": 0,
+		"SellPrice": 1000
+	},
+	{
+		"$ItemType": "ShopEntry",
+		"Item": { 
+			"Type": "DGAItem",
+			"Value": "lilico.SonicShoesDGA/SonicShoes",
+			"Quantity": 1
+		},
+		"ShopId": "Krobus",
+		"MaxSold": 1,
+		"Cost": 2500
+	}
+]
